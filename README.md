@@ -1,4 +1,4 @@
-# 🏥 NzubeCare Readmission Predic---
+# 🏥 NzubeCare Readmission Predictor
 
 ## 📦 **Getting the Trained Model**
 
@@ -556,5 +556,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 * 🌐 [LinkedIn](https://www.linkedin.com/in/dr-nzube-anthony-anyanwu) | [GitHub](https://github.com/codingEyeDr)
 
 ---
+
 
 ✨ *This project combines healthcare expertise and machine learning to tackle one of the most pressing challenges in hospital management: avoidable readmissions.*
